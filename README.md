@@ -4,14 +4,14 @@ Utilizando AI Search para indexação e consulta de dados
 O interessante desse laboratório realmente é ele diversificar e integrar conhecimentos , utilizaremos, o Azure AI Search o Azure AI Service e o Storage Account
 Quero enfatizar alguns pontos:
 Nesse passo eu já visualizo os arquivos docx com depoimentos de usuários de mídias sociais já predefinidos pelo laboratório no Storage Account.
-
+inputs/Cognitive.jpg
 
  
 
 
 O programa nos traz o conceito de blob: (Binary Large OBject) refere-se a um tipo de dado que pode armazenar grandes quantidades de informações de forma binária, como imagens, vídeos, documentos ou qualquer outro tipo de arquivo. Em bancos de dados, por exemplo, um blob é frequentemente usado para armazenar dados binários, como imagens ou arquivos PDF, após o upload ele passa a ser definido sob esse conceito.
 
-
+inputs/Container.jpg
  
 Aqui está uma visão geral de como funciona o index no Azure Search:
 
@@ -34,8 +34,8 @@ https://docs.servicenow.com/pt-BR/bundle/vancouver-servicenow-platform/page/prod
 
  
 A busca por sentimentos negativos funciona da seguinte forma:
- 
+ inputs/Indexdia22.jpg
 
 Neste passo selecionamos o Index e buscamos os depoimentos que foram obtidos por região, no nosso caso a cidade de Chicago. Então ele demonstra as  palavras-chaves, frases-chaves, e sentimentos.
-  
+  inputs/Negativo.jpg
 
